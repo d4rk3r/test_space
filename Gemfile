@@ -57,3 +57,4 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 #This is a useless test comment
 #This is also a useless test comment
+gem 'bootstrap-sass', '~> 3.3', '>= 3.3.6'
